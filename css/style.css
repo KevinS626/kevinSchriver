@@ -27,6 +27,8 @@
 /*		#3E92CC
 /*		#CDCDCD
 /*		#DFF8EB
+
+/*    #0000ff
 /*---------------------------------------------------*/
 
 /*---------------------------------------------------*/
@@ -128,7 +130,7 @@ img.svg{
     position: absolute;
     height: 50%;
     width: 100%;
-    background-color: #003049;
+    background-color: #0000ff;
 	
     -webkit-transition: .5s all ease;
     -o-transition: .5s all ease;
@@ -168,7 +170,7 @@ img.svg{
 			box-sizing: border-box; /* Opera/IE 8+ */
 }
 .edrea_tm_header.scroll{
-	background-color: #003049;	
+	background-color: #0000ff;	
 	box-shadow: 0 1px 3px rgba(255,255,255,.1);
 }
 .edrea_tm_header.scroll .edrea_tm_navigation_wrap .menu > ul > li a{
@@ -700,7 +702,7 @@ img.svg{
 .edrea_tm_main_title_holder h3{
 	font-weight: 900;
 	font-family: "Montserrat";
-	color: #003049;
+	color: #0000ff;
 	font-size: 30px;
 	line-height: 1;
 }
@@ -712,7 +714,7 @@ img.svg{
 	content: "";
 	width: 50px;
 	height: 4px;
-	background-color: #003049;
+	background-color: #0000ff;
 	letter-spacing: 0px;
 	bottom: -10px;
 }
@@ -772,7 +774,7 @@ img.svg{
 	bottom: -25px !important;
 	left: 25px !important;
 	right: -25px !important;
-	border: 10px solid #003049;
+	border: 10px solid #0000ff;
 }
 .edrea_tm_about_wrap .leftbox .about_image_wrap img{opacity: 0;}
 .edrea_tm_about_wrap .rightbox{
@@ -797,7 +799,7 @@ img.svg{
 }
 .edrea_tm_about_wrap .definition{margin-bottom: 20px;}
 .edrea_tm_about_wrap .definition p{color: #333;}
-.edrea_tm_about_wrap .definition p strong{color: #003049;}
+.edrea_tm_about_wrap .definition p strong{color: #0000ff;}
 .progress_bar_wrap_total{
 	width: 100%;
 	height: auto;
@@ -959,7 +961,7 @@ img.svg{
 .edrea_tm_about_wrap .buttons_wrap ul li a{
 	text-decoration: none;
     color: #fff;
-    background-color: #003049;
+    background-color: #0000ff;
     font-weight: 600;
     font-family: "Montserrat";
     padding: 12px 35px;
@@ -1083,7 +1085,7 @@ img.svg{
 	top: -147px;
 }
 .edrea_tm_services_wrap .carousel_nav .custom_nav a{
-	background-color: #003049;
+	background-color: #0000ff;
 	padding: 22px;
 	border-radius: 3px;
 	display: inline-block;
@@ -1130,7 +1132,7 @@ img.svg{
 	clear: both;
 	float: left;
 	position: relative;
-	border: 15px solid #003049;
+	border: 15px solid #0000ff;
 	padding: 70px 45px 53px 45px;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -1143,7 +1145,7 @@ img.svg{
 	right: 0px;
 	bottom: 0px;
 	top: 100%;
-	background-color: #003049;
+	background-color: #0000ff;
 	z-index: 2;
 	
 	-webkit-transition: all .3s ease;
@@ -1161,7 +1163,7 @@ img.svg{
 	font-family: "Montserrat";
 	font-size: 22px;
 	font-weight: 600;
-	color: #003049;
+	color: #0000ff;
 	line-height: 1;
 	line-height: 29px;
 	letter-spacing: 0px;
@@ -1331,7 +1333,7 @@ img.svg{
 	font-family: "Montserrat";
     font-size: 30px;
     font-weight: 600;
-    color: #003049;
+    color: #0000ff;
     line-height: 1;
     line-height: 29px;
     letter-spacing: 0px;
@@ -1618,7 +1620,7 @@ img.svg{
 }
 .edrea_tm_news_wrap .title_holder h3 a{
 	text-decoration: none;
-	color: #003049;
+	color: #0000ff;
 	font-size: 22px;
 	display: block;
 	
@@ -1634,7 +1636,7 @@ img.svg{
 .edrea_tm_news_wrap .read_more a{
 	text-decoration: none;
     color: #fff;
-    background-color: #003049;
+    background-color: #0000ff;
     font-weight: 600;
     font-family: "Montserrat";
     padding: 12px 35px;
@@ -1972,7 +1974,7 @@ img.svg{
 .edrea_tm_contact_wrap .edrea_tm_button a{
 	text-decoration: none;
     color: #fff;
-    background-color: #003049;
+    background-color: #0000ff;
     font-weight: 600;
     font-family: "Montserrat";
     padding: 12px 35px;
@@ -2068,7 +2070,7 @@ img.svg{
 	clear: both;
 	float: left;
 	text-align: left;
-	background-color: #003049;
+	background-color: #0000ff;
 	padding: 50px 0px;
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -2096,7 +2098,7 @@ img.svg{
 	overflow: hidden;
 	outline: 1px solid rgba(255,255,255,.2);
 
-	background-color: #003049;
+	background-color: #0000ff;
     padding: 22px;
     border-radius: 3px;
     display: inline-block;
@@ -2242,7 +2244,7 @@ img.svg{
 	.edrea_tm_trigger{display: block;}
 	.edrea_tm_navigation_wrap .nav_list_wrap{display: none;}
 	.edrea_tm_navigation_wrap .logo{position: relative;top:-1px;display: inline-block;}
-	.edrea_tm_navigation_wrap{padding: 30px 0px;background-color: #003049;border-bottom: 1px solid rgba(255,255,255,.1);}
+	.edrea_tm_navigation_wrap{padding: 30px 0px;background-color: #0000ff;border-bottom: 1px solid rgba(255,255,255,.1);}
 	.edrea_tm_list_wrap[data-column="4"] ul.total > li{width: 33.3333%;}
 	.edrea_tm_list_wrap[data-column="5"] ul.total > li{width: 33.3333%;}
 	.edrea_tm_services_wrap_second .edrea_tm_list_wrap[data-column="4"] ul.total > li{width: 33.3333%;}
