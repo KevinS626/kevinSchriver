@@ -18,16 +18,7 @@
 	11) EDREA FOOTER
 	12) EDREA TO TOP
 	13) EDREA MEDIA QUERIES (FOR SMALL DEVIVES)
-	
 
-/*---------------------------------------------------*/
-/*	My Colors
-/*		#3E92CC
-/*		#CDCDCD
-/*		#DFF8EB
-/*    #0000ff
-/*    #FF0000
-/*---------------------------------------------------*/
 
 /*---------------------------------------------------*/
 /*	01) EDREA BASE
@@ -66,6 +57,14 @@ img.svg{
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */ 
+}
+p::-moz-selection { 
+	color: #ffffff;
+	background: #FF0000;
+}
+p::selection { 
+	color: #FFF; 
+	background: #FF0000;
 }
 #ripple{
 	position: relative;
@@ -1990,7 +1989,7 @@ img.svg{
 	text-align: left;
 }
 .edrea_tm_contact_wrap .returnmessage{
-	color:#0064FF;
+	color:#FF0000;
 	margin-bottom: 7px;
 	text-align: left;
 }
