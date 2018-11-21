@@ -745,7 +745,7 @@ img.svg{
 			box-sizing: border-box; /* Opera/IE 8+ */ 
 }
 .edrea_tm_about_wrap .leftbox{
-	width: 35%;
+	width: 25%;
 	float: left;
 	height: auto;
 	padding-right: 40px;
@@ -766,7 +766,7 @@ img.svg{
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	background-image: url(..//img/about/1.jpg);
+	background-image: url(..//img/about/KevinSchriver-Kevin-Schriver.jpg);
 }
 .edrea_tm_about_wrap .leftbox .about_image_wrap .border .inner{
 	position: absolute;
