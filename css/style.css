@@ -66,6 +66,7 @@ p::selection {
 	color: #FFF; 
 	background: #FF0000;
 }
+
 #ripple{
 	position: relative;
 	z-index: 0;
