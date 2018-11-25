@@ -982,6 +982,32 @@ p::selection {
 }
 .edrea_tm_about_wrap .buttons_wrap ul li a:hover:before{width: 180%;}
 
+#FormSubmission{
+	text-decoration: none;
+    color: #fff;
+    background-color: #0000ff;
+    font-weight: 600;
+    font-family: "Montserrat";
+    padding: 12px 35px;
+    border-radius: 3px;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;;
+}
+#FormSubmission:before{
+	position: absolute;
+    content: "";
+    top: 0px;
+    height: 100%;
+    left: -25%;
+    width: 0%;
+    background-color: #FF0000;
+    transform: skew(50deg);
+    transition-duration: .6s;
+    z-index: 1;
+}
+#FormSubmission:hover:before{width: 180%;}
+
 /*---------------------------------------------------*/
 /*	07)	EDREA SERVICES
 /*---------------------------------------------------*/
