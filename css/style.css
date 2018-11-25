@@ -1474,6 +1474,9 @@ p::selection {
 }
 .edrea_tm_portfolio_filter li a.current{color: #FF0000;}
 
+.entry.edrea_tm_portfolio_animation_wrap {
+	border: #0000ff 3px solid;
+}
 /* PORTFOLIO LIST */
 
 .edrea_tm_portfolio_list{
