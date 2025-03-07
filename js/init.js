@@ -572,7 +572,7 @@ function edrea_tm_animate_text(){
 	var animateSpan			= jQuery('.edrea_tm_animation_text_word');
 	
 		animateSpan.typed({
-			strings: ["Intelligent Web Design"],
+			strings: ["UX Development"],
 			loop: false,
 			startDelay: 2e3,
 			backDelay: 2e3
